@@ -26,7 +26,7 @@
     "url": "https://github.com/namshi/node-mysql/issues"
   },
   "dependencies": {
-    "mysql2": "1.2.0"
+    "mysql2": "2.2.5"
   },
   "homepage": "https://github.com/namshi/node-mysql",
   "devDependencies": {
